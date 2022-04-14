@@ -1,0 +1,4 @@
+german - https://gist.github.com/MarvinJWendt/2f4f4154b8ae218600eb091a5706b5f4#file-wordlist-german-txt
+english - https://github.com/dwyl/english-words/blob/master/words.txt
+dutch - https://github.com/OpenTaal/opentaal-wordlist
+names and last names- https://www.usna.edu/Users/cs/roche/courses/s15si335/proj1/files.php%3Ff=names.txt.html
